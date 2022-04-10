@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/back.xml" value="0.1995" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/bottom_the.xml" value="0.1995" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/bulatt.xml" value="0.1815" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/calendar.xml" value="0.1995" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/close.xml" value="0.1995" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/delete.xml" value="0.2425" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/garis.xml" value="0.2" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/help.xml" value="0.1995" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/link.xml" value="0.1995" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/menu.xml" value="0.2425" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/selector_button.xml" value="0.246" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/setting.xml" value="0.2425" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/side.xml" value="0.2105" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/side2.xml" value="0.2105" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/drawable/videocam.xml" value="0.1995" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/akun.xml" value="0.264" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/appbar.xml" value="0.4" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/appbar2.xml" value="0.24010416666666667" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/fragment_feedback.xml" value="0.2453125" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/fragment_setting.xml" value="0.2453125" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/joinbar.xml" value="0.264" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/joinlayout.xml" value="0.4" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/jonbar.xml" value="0.24010416666666667" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/layout.xml" value="1.0" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/layout_navigation_header.xml" value="0.4" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/login.xml" value="0.25" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/mainlayout.xml" value="0.264" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/meet_utama.xml" value="0.2351851851851852" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/menu_layout.xml" value="0.1" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/newmeetlayout.xml" value="0.264" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/settingbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/settings_layout.xml" value="0.264" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/splas.xml" value="0.25416666666666665" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/layout/splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/menu/menu.xml" value="0.1824074074074074" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/menu/menul.xml" value="0.4" />
+        <entry key="..\:/APPs/Googlemee/app/src/main/res/xml/root_preferences.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

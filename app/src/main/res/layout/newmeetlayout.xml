@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/newmeetlayout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bottom_the">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/link"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="25dp"
+            android:src="@drawable/link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <TextView
+            android:id="@+id/tvlink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_toEndOf="@id/link"
+            android:text="@string/get_joining_info_to_share"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/videocam"
+            android:layout_below="@id/link"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="25dp"
+            android:src="@drawable/videocam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <TextView
+            android:id="@+id/tvvideocam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvlink"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="42dp"
+            android:layout_toEndOf="@id/videocam"
+            android:text="@string/start_an_instant_meeting"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/calendar"
+            android:layout_below="@id/videocam"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="25dp"
+            android:src="@drawable/calendar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <TextView
+            android:id="@+id/tvcalendar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvvideocam"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="42dp"
+            android:layout_toEndOf="@id/calendar"
+            android:text="@string/schedule_in_google_calendar"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/close"
+            android:onClick="clickClose"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/calendar"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/close"
+            android:layout_marginBottom="15dp"/>
+
+        <TextView
+            android:id="@+id/tvclose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvcalendar"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="42dp"
+            android:layout_marginBottom="15dp"
+            android:layout_toEndOf="@id/close"
+            android:text="@string/close"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+</LinearLayout>
